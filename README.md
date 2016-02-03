@@ -1,5 +1,7 @@
 # Welcome to CSSI's Facilitator Prework!
 
+![cssi graduation](http://4.bp.blogspot.com/-AU0aZPUBjFQ/VK74gygcU9I/AAAAAAAALng/7OiC-zMVDwQ/s1600/Screen%2BShot%2B2015-01-08%2Bat%2B4.36.35%2BPM.png)
+
 We're so excited that you'll be learning to code with us, and will be the lead faciliators at your CSSI locations this summer. The purpose of this training is to give you a solid understanding of the tools and technologies that your students will be learning this summer at CSSI. We don't expect you to become experienced developers with 60 hours of pre-work, but the content here should be enought to get you conversant in the concepts and frameworks that are introduced to students learning to code for the first time.
 
 Each resource has an estimated amount of time it should take you if you have zero prior knowledge on the topic. We make suggestions of how much time to spend on each section. Try and achieve the learning objectives in the suggested time frame, then move on. You can always come back and watch the section again.
