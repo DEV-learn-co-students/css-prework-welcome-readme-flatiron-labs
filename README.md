@@ -4,8 +4,6 @@
 
 We're so excited that you'll be learning to code with us and will be the lead faciliators at your CSSI locations this summer. The purpose of this training is to give you a solid understanding of the tools and technologies that your students will be learning this summer at CSSI. We don't expect you to become experienced developers with 60 hours of pre-work, but the content here should be enough to get you conversant in the concepts and frameworks that are introduced to students learning to code for the first time.
 
-Each resource has an estimated amount of time it should take you if you have zero prior knowledge on the topic. We make suggestions of how much time to spend on each section. Try and achieve the learning objectives in the suggested time frame, then move on. You can always come back and watch the section again.
-
 If you are already familiar with a topic, feel free to skip it and come back. The prework is designed around breadth over depth. It's important to get a solid foundation in the broad set of fundamentals before diving deeper into a specific area. Try to read and watch as much as possible.
 
 Learning should have context, and you should know what your goals are. Each section will address which learning objectives it will cover. There's an infinite amount of things you could spend your time learning; part of the value of this prework is that we can narrow the scope to only the most essential. If you can achieve fluency in the topics here, you'll be fully prepared to facilitate the CSSI course.
